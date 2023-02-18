@@ -1,16 +1,52 @@
-### Hi there 👋
+# Hi friend 👋
+#### I am iOS Developer
+![I am iOS Developer](https://camo.githubusercontent.com/fb9f8045c2a49eec15a7608a6dcac8928a9f92e45bebab3619c9bec17a443c1a/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d45696763415342354b37492f5735373454727a357461492f41414141414141414150452f326967686d464c58576334543679386a6f62595f4c6f4271756930537549364177434c63424741732f73313630302f4b656c6c616e253235324241742532353242576f726b2e676966)
 
-<!--
-**KodAndN/KodAndN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```swift
+class IOSDeveloper {
+    
+    let name = "Andrey Kodochigov"
+    let age = 33
+    let language = "Swift"
+    
+    var myStackDictionary: [String: [String]] = [
+        
+        "Principles":       ["OOP", "SOLID"]
+        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
+        "Dependensies":     ["CocoaPods", "SPM", "Carthage"]
+        "Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"]
+        "Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"]
+        "Multithreading":   ["GCD", "DQ's"]
+        "Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"]
+        "Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"]
+        "GUI":              ["Git", "GitHub"]
+        "Graphics":         ["Figma", "Photoshop"]
+    ]
+    
+    var otherTechnologies: [String] = [
+        "SwiftUI",
+        "MapKit",
+        "Push / Local Notifications",
+        "Multimedia (AVFoundation, Core Audio, AVKit)",
+        "Core Animation",
+        "RXSwift"
+    ]
+    
+    func sayHello() {
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+    }
+}
+    
+me = IOSDeveloper()
+me.sayHello()
+```
 
-Here are some ideas to get you started:
+## Contact
+- 📫 How to reach me: devandyko@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/github.svg' alt='github' height='40'>](https://github.com/KodAndN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/andrey_kodochigov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/telegram.svg' height='40'>](https://www.t.me/AndyKod)  
+
+![GitHub metrics](https://metrics.lecoq.io/KodAndN)  
+
+![Profile views](https://gpvc.arturio.dev/KodAndN)  
